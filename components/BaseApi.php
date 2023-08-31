@@ -1,6 +1,6 @@
 <?php
 
-	namespace dovechen\yii2\douyin\components;
+	namespace fastwhale\yii2\douyin\components;
 
 	use yii\base\Component;
 

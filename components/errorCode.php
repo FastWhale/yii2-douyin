@@ -1,10 +1,10 @@
 <?php
 
-	namespace dovechen\yii2\douyin\components;
+	namespace fastwhale\yii2\douyin\components;
 
 	/**
 	 * Class errorCode
-	 * @package dovechen\yii2\douyin\components
+	 * @package fastwhale\yii2\douyin\components
 	 */
 	class errorCode
 	{

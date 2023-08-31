@@ -1,10 +1,10 @@
 <?php
 
-	namespace dovechen\yii2\douyin;
+	namespace fastwhale\yii2\douyin;
 
-	use dovechen\yii2\douyin\components\BaseApi;
-	use dovechen\yii2\douyin\components\HttpUtils;
-	use dovechen\yii2\douyin\components\Utils;
+	use fastwhale\yii2\douyin\components\BaseApi;
+	use fastwhale\yii2\douyin\components\HttpUtils;
+	use fastwhale\yii2\douyin\components\Utils;
 	use yii\base\InvalidParamException;
 
 	require_once "components/errorInc/error.inc.php";

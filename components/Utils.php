@@ -1,12 +1,12 @@
 <?php
 
-	namespace dovechen\yii2\douyin\components;
+	namespace fastwhale\yii2\douyin\components;
 
 	require_once "utils/Utils.php";
 
 	/**
 	 * Class Utils
-	 * @package dovechen\yii2\weWork\components
+	 * @package fastwhale\yii2\weWork\components
 	 */
 	class Utils extends \Utils
 	{
